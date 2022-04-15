@@ -422,8 +422,9 @@ th {
 }
 
 .team-form-img {
-  padding-top: 10%;
+  padding-bottom: 10%;
   width: 90%;
+  height: 100%;
 }
 
 .last-container-p1 {
