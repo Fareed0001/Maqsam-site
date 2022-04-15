@@ -395,7 +395,7 @@ th {
 .screen-shot-carousel {
   position: relative;
   left: 1%;
-  height: auto;
+  height: 300px;
   top: 6rem;
   filter: brightness(40%);
 }
@@ -471,3 +471,15 @@ th {
   font-size: 0.7rem;
   font-weight: lighter;
 }
+
+/* @media (max-width: 1028px) {
+
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+} */
